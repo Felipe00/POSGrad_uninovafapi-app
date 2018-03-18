@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Pós-Graduação Uninovafapi</string>
+    <string name="title_home">Grade Curricular</string>
+    <string name="title_dashboard">Corpo Docente</string>
+    <string name="title_notifications">Carga Horária</string>
+    <string name="disciplinas_label">Engenharia e Desenvolvimento de Software com Foco em Aplicativos Móveis</string>
+    <string name="disciplinas_sub_title">(Turma em andamento) - Polo Teresina\n\n•</string>
+    <string name="nomes_professores">• Laécyo Moura \n• Dalfred Welkener \n• Sílio Silvestre \n• Ênio Rodrigues \n• Bárbara Lima \n• Hilson Silva</string>
+    <string name="carregando_disciplinas_aguarde">Aguarde, carregando lista de disciplinas</string>
+    <array name="disciplinas">
+        <item>Metodologia da Pesquisa Científica</item>
+        <item>Introdução a Computação Móvel e Uníqua</item>
+        <item>Desenvolvimento para Dispositivos Móveis I (Android)</item>
+        <item>Banco de Dados para Computação Móvel</item>
+        <item>Desenvolvimento para Dispositivos Móveis II (Android – avançado)</item>
+        <item>Design e Usabilidade em Aplicações Móveis</item>
+        <item>Desenvolvimento para Dispositivos Móveis III (IOS)</item>
+        <item>Serviços e Computação na Nuvem</item>
+        <item>Gestão de Qualidade do Software para Aplicativos</item>
+        <item>Engenharia de Software e Metodologias Ágeis</item>
+        <item>Redes sem Fio</item>
+        <item>Arquiteturas de Aplicações e Projero de Dispositivos Móveis</item>
+        <item>Desenvolvimento para Dispositivos Móveis V (HTML5 e Tecnologias Híbridas)</item>
+        <item>segurança para Aplicações Móveis para Internet das Coisas e Cloud Computing</item>
+        <item>Empreendedorismo, Inovação e Economia Criativa</item>
+        <item>Gestão de Configuração e Testes de Software Aplicado a Dispositivos Móveis</item>
+        <item>Desenvolvimento de Aplicações Móveis aplicando Internet das Coisas</item>
+        <item>Seminários Integrados de Orientação do TCC – Artigo Científico</item>
+        <item>Trabalho de Conclusão de Curso (Artigo)</item>
+    </array>
+</resources>
+
+    <!--
+    "disciplinas": [
+
+    "Metodologia da Pesquisa Científica",
+    "Introdução a Computação Móvel e Uníqua",
+    "Desenvolvimento para Dispositivos Móveis I (Android)",
+    "Banco de Dados para Computação Móvel",
+    "Desenvolvimento para Dispositivos Móveis II (Android – avançado)",
+    "Design e Usabilidade em Aplicações Móveis",
+    "Desenvolvimento para Dispositivos  Móveis III (IOS)",
+    "Serviços e Computação na Nuvem",
+    "Gestão de Qualidade do Software para Aplicativos",
+    "Engenharia de Software e Metodologias Ágeis",
+    "Redes sem Fio",
+    "Arquiteturas de Aplicações e Projero de Dispositivos Móveis",
+    "Desenvolvimento para Dispositivos Móveis V (HTML5 e Tecnologias Híbridas)",
+    "segurança para Aplicações Móveis para Internet das Coisas e Cloud Computing",
+    "Empreendedorismo, Inovação e Economia Criativa",
+    "Gestão de Configuração e Testes de Software Aplicado a Dispositivos Móveis",
+    "Desenvolvimento de Aplicações Móveis aplicando Internet das Coisas",
+    "Seminários Integrados de Orientação do TCC – Artigo Científico",
+    "Trabalho de Conclusão de Curso (Artigo)"
+
+    ]
+
+    -->
